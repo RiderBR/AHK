@@ -1,0 +1,4 @@
+#SingleInstance, Force
+FileEncoding, UTF-8
+FileRead, lista, ‪C:\Users\marco\Documents\lista.tx
+MsgBox % lista
